@@ -1,5 +1,5 @@
 # Safe-Zone-Maker
-This is our first year hardware project. This system allows us to enter only customers who are not infected with Covid-19 into a public place (Eg: Shopping Mall).
+<b>Safe Zone Maker </b>is our first year hardware project. This system allows us to enter only customers who are not infected with Covid-19 into a public place (Eg: Shopping Mall).
 <hr>
 <h3>Aim:</h3>
 Design and develop an automated system smart door to make the entrance for limited people without man’s interference to ensure Covid safety. 
