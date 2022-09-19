@@ -12,3 +12,12 @@ Design and develop an automated system smart door to make the entrance for limit
 <li>To minimize unnecessary expenditures in the relevant task by replacing an automated system to the human laboring system. </li>
 <li>To enhance the efficiency with less time-consuming.</ul>
 
+<h4>Group Members </h4>
+<ul>
+<li>204227L - Waweliyadda H.W.M.V.D. - (Leader)</li>
+<li>204126C - Mapagedara D.L.B. </li>
+<li>204122K - Mahilan S. </li>
+<li>204062B - Gunasekara M.G.M. S  </li>
+<li>204097K - Kaushalya D.M.G. </li>
+</ul>
+
